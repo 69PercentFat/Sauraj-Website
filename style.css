@@ -115,6 +115,12 @@ h1:after {
 .info > p {
   margin-bottom: 3rem;
 }
+
+#email {
+  margin-top: 2%;
+}
+
+
 @-webkit-keyframes swing {
   0% {
     --swing-x: -100;
